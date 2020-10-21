@@ -1,2 +1,3 @@
 # Web-Health-Rescue-App
-Health Admin and Patient Medical Assistance App
+Is a project of Team #web-health-23 @GADS2020 for
+Health Admin and Patient Medical Assistance.
